@@ -14,7 +14,7 @@ El objetivo es mostrar cómo la inteligencia artificial puede ayudar a la **opti
 | Archivo                                    | Descripción                                                                                                                                  |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | `transmilenio_transit_trips_unlabeled.csv` | Dataset con 2201 registros de viajes de TransMilenio.                                                                                        |
-| `clustering_transmilenio.ipynb`            | Notebook con el código en Python que realiza: preprocesamiento, K-Means, KNN, visualización PCA, método Elbow y cálculo de Silhouette Score. |
+| `transmilenio_transit_trips.py`            | Notebook con el código en Python que realiza: preprocesamiento, K-Means, KNN, visualización PCA, método Elbow y cálculo de Silhouette Score. |
 | `README.md`                                | Este archivo de descripción del proyecto.                                                                                                    |
 
 ---
