@@ -23,7 +23,8 @@ El objetivo es mostrar cómo la inteligencia artificial puede ayudar a la **opti
 
 Para ejecutar el proyecto necesitas tener instaladas las siguientes librerías de Python:
 
+
 ```bash
 pip install pandas matplotlib scikit-learn
 
-## Repositorio Git https://github.com/OlivrsATC/trasnmilenio_transit_trips_unlabeled
+
